@@ -1,0 +1,13 @@
+# ninja log v6
+16	157	7634674084623255	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+158	225	7634674086033231	structarray.exe	8dd0eb22c7ef97cb
+3	46	7634680612679810	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+46	84	7634680613115797	structarray.exe	8dd0eb22c7ef97cb
+3	41	7634680881091494	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+3	45	7634680899475485	structarray.exe	8dd0eb22c7ef97cb
+4	42	7634681144796198	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+42	82	7634681145177607	structarray.exe	8dd0eb22c7ef97cb
+3	40	7634682013521048	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+40	79	7634682013892986	structarray.exe	8dd0eb22c7ef97cb
+3	39	7634687819203975	CMakeFiles/structarray.dir/main.c.obj	9fa8f07ddfda86f9
+39	76	7634687819569783	structarray.exe	8dd0eb22c7ef97cb
