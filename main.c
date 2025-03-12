@@ -27,5 +27,17 @@ int main(void) {
     for(int i=0;i<MAX_STUDENTI;i++) {
         printf("dati dello studente numero %d : matricola: %d , eta: %d, media : %2.f",i+1,classe[i].matricola,classe[i].eta,classe[i].media);
     }
+     float totale = 0;
+    for (int i = 0; i < MAX_STUDENTI; i++) {
+        totale += classe[i].media;
+    }
+    float mediagenerale = totale / (float) MAX_STUDENTI;
+    printf("%f", mediagenerale);
+    for (int i = 0; i < MAX_STUDENTI; i++) {
+        if (classe[i].media >= mediagenerale) {
+            printf("lo studente %d ha la media : %f", i + 1, classe[i].media);
+
+        }
+    }
     return 0;
 }
